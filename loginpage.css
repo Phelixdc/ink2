@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.alli{
+    border: 1px solid white;
+    margin: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+.allii{
+    margin: 20px;
+}
+body{
+    background-color: #e1ecec;
+}
+.allii h3, .allii p{
+    text-align: center;
+}
+.allii h3{
+    margin-top: 20px;
+}
+#google{
+    border: 1px solid rgba(128, 128, 128, 0.411);
+    border-radius: 10px;
+    width: 70%;
+    padding: 8px;
+    text-align: center;
+    margin-top: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+#google a{
+    text-decoration: none;
+    color: black;
+}
+input{
+    width: 100%;
+    padding: 4px;
+    border-radius: 5px;
+    border: 1px solid rgba(128, 128, 128, 0.411);
+
+}
+label{
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+#login{
+    margin-top: 20px;
+    background-color: blueviolet;
+    color: white;
+    margin-bottom: 20px;
+}
+#caa a{
+    text-decoration: none;
+    color: blueviolet;
+}
+#caa{
+    margin-bottom: 40px;
+}
+.allii img{
+    margin: auto;
+}
+#top{
+    margin-top: 40px;
+}
